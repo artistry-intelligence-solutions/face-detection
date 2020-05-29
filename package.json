@@ -1,0 +1,28 @@
+{
+  "name": "face-detection",
+  "version": "1.0.0",
+  "description": "Pet project facial expression detection using machine learning",
+  "main": "main.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artistry-intelligence-solutions/face-detection.git"
+  },
+  "keywords": [
+    "AI",
+    "Facial",
+    "Expression",
+    "Detection"
+  ],
+  "author": "Artistry Intelligence Solutions (Pty)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artistry-intelligence-solutions/face-detection/issues"
+  },
+  "homepage": "https://github.com/artistry-intelligence-solutions/face-detection#readme"
+}
