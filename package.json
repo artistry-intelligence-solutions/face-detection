@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/artistry-intelligence-solutions/face-detection/issues"
   },
-  "homepage": "https://github.com/artistry-intelligence-solutions/face-detection#readme"
+  "homepage": "https://github.com/artistry-intelligence-solutions/face-detection#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
 }
